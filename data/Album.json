@@ -1,8 +1,8 @@
 {
   "albums": [
     {
-      "name": "Nature",
-      "folder": "nature",
+      "name": "Photos",
+      "folder": "Photos",
       "photos": [
         "nature1.jpg",
         "nature2.jpg",
