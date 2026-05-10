@@ -1,0 +1,31 @@
+{
+  "albums": [
+    {
+      "name": "Nature",
+      "folder": "nature",
+      "photos": [
+        "nature1.jpg",
+        "nature2.jpg",
+        "nature3.jpg"
+      ]
+    },
+
+    {
+      "name": "Cars",
+      "folder": "cars",
+      "photos": [
+        "car1.jpg",
+        "car2.jpg"
+      ]
+    },
+
+    {
+      "name": "Travel",
+      "folder": "travel",
+      "photos": [
+        "travel1.jpg",
+        "travel2.jpg"
+      ]
+    }
+  ]
+}
